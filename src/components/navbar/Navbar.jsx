@@ -33,7 +33,7 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <NavLink to={"/"}>
-                        <h2 className="font-bold text-xl cursor-pointer">daisyUI</h2>
+                        <h2 className="font-bold text-xl cursor-pointer">Book Vibe</h2>
                     </NavLink>
                 </div>
                 <div className="navbar-center hidden lg:flex">
